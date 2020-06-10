@@ -2,4 +2,4 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
